@@ -15,5 +15,5 @@ jobs:
           username: axelvanherle
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: axelvanherle/iotTask2/hallo
+          repository: axelvanherle/iottask2/hallo
           tag_with_sha: true
